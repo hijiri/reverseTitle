@@ -6,7 +6,7 @@
  * @link      http://tkns.homelinux.net/
  * @license   http://www.opensource.org/licenses/bsd-license.php  New BSD License
  * @since     2010.04.28
- * @version   10.5.2
+ * @version   10.5.17
  */
 
 ●記事タイトルをサイト名の前に表示するプラグイン
@@ -32,5 +32,6 @@ Loggixを使用したサイトでは、標準で「サイト名 : 記事タイ�
 作者多忙の為サポート出来ません。意見/感想はContactからご連絡ください。
 
 ■更新履歴
+2010-05-17:書き直し
 2010-05-02:変数名変更
 2010-04-28:公開
